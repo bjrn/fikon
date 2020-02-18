@@ -1,4 +1,3 @@
-// const file = require('./figma-doc.json');
 const Figma = require('figma-js');
 const Listr = require('listr');
 const fs = require('fs');
