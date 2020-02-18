@@ -1,0 +1,10 @@
+# OSX
+.DS_Store
+
+node_modules/
+yarn-error.log
+.env
+assets/
+
+# files saved when using the --debug flag
+/figma-debug-*
